@@ -1,0 +1,7 @@
+6
+TOTAL
+VENDER cafe 5
+VENDER cafe 2
+VENDER azucar 1
+CONSULTAR cafe
+TOTAL

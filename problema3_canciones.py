@@ -20,7 +20,6 @@ class SingleLinkedList:
  
     def insert_at_position(self, pos, x):
         n = Nodo(x)
-        # Lista vacía o posición 0
         if self.head is None or pos == 0:
             n.next = self.head
             self.head = n
@@ -32,7 +31,6 @@ class SingleLinkedList:
         while current.next is not None and i < pos - 1:
             current = current.next
             i += 1
-        # Insertar después de current
         n.next = current.next
         current.next = n
         if n.next is None:

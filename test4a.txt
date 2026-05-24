@@ -1,0 +1,8 @@
+7
+VENDER arroz 3
+VENDER leche 2
+CONSULTAR arroz
+VENDER arroz 4
+CONSULTAR arroz
+CONSULTAR pan
+TOTAL
