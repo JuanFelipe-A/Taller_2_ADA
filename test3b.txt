@@ -1,0 +1,7 @@
+6
+MOSTRAR
+AGREGAR reggaeton
+INSERTAR 5 vallenato
+MOSTRAR
+ELIMINAR pop
+MOSTRAR
